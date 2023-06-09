@@ -1,3 +1,6 @@
+<h1>NETFLİX CLONE</h1>
+
+
 <h1>Kullanılan Kütüphanaler</h1>
 
 react-router-dom
